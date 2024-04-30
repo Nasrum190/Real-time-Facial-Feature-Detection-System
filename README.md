@@ -1,1 +1,7 @@
 # Real-time-Facial-Feature-Detection-System
+This project utilizes the OpenCV library to perform real-time face detection along with detection of facial features such as eyes, nose, and mouth. It provides a simple and efficient way to identify and highlight these features in live video streams.
+
+Features:
+Detects faces in real-time video streams using Haar cascades.
+Identifies and highlights facial features including eyes, nose, and mouth.
+Utilizes OpenCV for efficient image processing.
